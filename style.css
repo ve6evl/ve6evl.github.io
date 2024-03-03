@@ -1,10 +1,10 @@
 
 body {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
 H1 {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
     font-size: 36px;
     font-weight: 700;
     border-bottom-color: darkorange;
@@ -14,7 +14,7 @@ H1 {
     padding-bottom: 12px;
 }
 H2 {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 500;
     border-top-color: darkorange;
