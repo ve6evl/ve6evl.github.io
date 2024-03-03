@@ -7,6 +7,7 @@ H1 {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 36px;
     font-weight: 700;
+    border-bottom-color: darkorange;
     border-bottom-style: solid;
     border-width: 2px;
     padding-bottom: 12px;
