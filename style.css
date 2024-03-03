@@ -1,7 +1,7 @@
 
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-size: 14px;
+    font-size: 14px;
 }
 H1 {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
@@ -14,8 +14,9 @@ H1 {
 }
 H2 {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 500;
+    border-bottom-color: darkorange;
     border-bottom-style: dotted;
     border-width: 1px;
     padding-bottom: 6px;
