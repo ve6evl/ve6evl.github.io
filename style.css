@@ -7,19 +7,20 @@ H1 {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 36px;
     font-weight: 700;
-    border-top-color: darkorange;
-    border-top-style: solid;
+    border-bottom-color: darkorange;
+    border-bottom-style: solid;
     border-width: 2px;
     padding-top: 12px;
-    padding-bottom: 6px;
+    padding-bottom: 12px;
 }
 H2 {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 500;
-    border-bottom-color: darkorange;
-    border-bottom-style: dotted;
+    border-top-color: darkorange;
+    border-top-style: dotted;
     border-width: 1px;
+    padding-top: 12px;
     padding-bottom: 6px;
 }
 .navbar {
